@@ -1,0 +1,13 @@
+.team {
+    display: flex;
+    margin: 100px 164px 100px 164px;
+}
+.photo{
+display: inline-block;
+width: ;
+height: ;
+}
+
+.photos-bio {
+    display: inline-block;
+}
